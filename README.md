@@ -20,3 +20,4 @@ bash <(curl -s -L git.io/JPjEW)
 
 l2tp安装
 
+bash <(curl -s -L git.io/JPjuV)
